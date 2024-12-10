@@ -1,0 +1,6 @@
+name = "palma-hayek-ui"
+pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "PALMA_HAYEK_KV"
+id = "27b837c04dc14a5fb56c732cd2673283"
